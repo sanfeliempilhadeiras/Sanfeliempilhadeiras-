@@ -1,0 +1,15 @@
+SITE SANFELI EMPILHADEIRAS
+
+O site agora usa o logo da Sanfeli no cabeçalho.
+
+WhatsApp configurado:
+11 97868-4561
+
+E-mail:
+sanfeliempilhadeiras@gmail.com
+
+Arquivos principais:
+- index.html
+- logo-sanfeli.png
+
+Para publicar gratuitamente, envie estes arquivos para uma hospedagem de site estático.
